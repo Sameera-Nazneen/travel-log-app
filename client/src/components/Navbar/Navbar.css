@@ -1,0 +1,12 @@
+.navbar{
+    text-align: right;
+    display: block;
+    padding: 2%;
+    font-size: larger;
+    background-color: beige;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+}
